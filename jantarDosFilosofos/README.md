@@ -14,7 +14,4 @@ Desta forma, desenvolvemos neste trabalho a implementação visual da solução 
 * jdk-8u5-windows-x64
 * Netbeans IDE 8.0 (Esta é a minha IDE de utilização)
 
-<b>Vídeo demonstrativo:</b> https://youtu.be/9KAN4xsJo6Y
 
-<b>Print da tela em execução:</b>
-<img src="https://raw.githubusercontent.com/daniel-2010/jantar-dos-filosofos/main/src/Imagens/printscreen.png" width="100%" />
